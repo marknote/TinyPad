@@ -5,12 +5,12 @@ include_in_header: false
 ---
 
 **Last updated**  
-Dec 10 2023
+Nov 9 2024
 
 
 
 # Privacy Policy
-Shumin Sun built the Love2D Sutdio app as a Commercial app. This SERVICE is provided by Shumin Sun and is intended for use as is.
+Shumin Sun built the TinyPad app as a Commercial app. This SERVICE is provided by Shumin Sun and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -20,13 +20,6 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
   
 Personal Content. Your content, e.g., your files, is not saved on our servers nor do we have access to this data. This data is saved as human-readable text files locally on iOS device.
-If you choose to sync your data with Git service provider like GitHub, Gitlab or Gitee , your may need to check the related privacy policies.
-
-Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-For a better experience, while using our Service, I may collect your usage data through 3rd party analytics service. The service used is:
-
-- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
 ## Log Data
 
@@ -64,7 +57,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-12-10
+This policy is effective as of 2024-11-09
 
 ## Contact Us
 
